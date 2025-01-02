@@ -48,7 +48,7 @@ Here:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/sa-id-number-generator.git
+    git clone https://github.com/EddieGerbs/SA-ID-Generator
     ```
 2. **Run the Python script**:
     ```bash
